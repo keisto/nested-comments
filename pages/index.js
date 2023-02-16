@@ -8,7 +8,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>
-        <div>Test</div>
+        <div className="bg-red-500">Test</div>
       </main>
     </>
   )
